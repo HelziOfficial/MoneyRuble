@@ -1,0 +1,11 @@
+<CurrencyName> #tm_ruble
+	<Currency> Hel_MoneyRuble, 		1
+	<Currency> Hel_MoneyRuble5, 	5
+	<Currency> Hel_MoneyRuble10, 	10
+	<Currency> Hel_MoneyRuble50, 	50
+	<Currency> Hel_MoneyRuble100, 	100
+	<Currency> Hel_MoneyRuble200, 	200
+	<Currency> Hel_MoneyRuble500, 	500
+	<Currency> Hel_MoneyRuble1000, 	1000
+	<Currency> Hel_MoneyRuble2000, 	2000
+	<Currency> Hel_MoneyRuble5000, 	5000

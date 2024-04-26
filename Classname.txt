@@ -1,0 +1,10 @@
+Hel_MoneyRuble
+Hel_MoneyRuble5
+Hel_MoneyRuble10
+Hel_MoneyRuble50
+Hel_MoneyRuble100
+Hel_MoneyRuble200
+Hel_MoneyRuble500
+Hel_MoneyRuble1000
+Hel_MoneyRuble2000
+Hel_MoneyRuble5000

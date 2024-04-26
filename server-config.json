@@ -1,0 +1,44 @@
+{
+    "BankingCurrency": [
+        {
+            "CurrencyName": "Hel_MoneyRuble5000",
+            "CurrencyValue": 5000
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble2000",
+            "CurrencyValue": 2000
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble1000",
+            "CurrencyValue": 1000
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble500",
+            "CurrencyValue": 500
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble200",
+            "CurrencyValue": 200
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "Hel_MoneyRuble",
+            "CurrencyValue": 1
+        }
+    ]
+}
